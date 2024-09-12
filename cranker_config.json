@@ -1,5 +1,5 @@
 {
-  "period_in_seconds": 20,
+  "period_in_seconds": 10,
   "feeds": [
     {
       "label": "jupSOL",
